@@ -1,0 +1,12 @@
+test
+pull
+
+git add.
+[A[A[A[B[C[C[C[C
+git commit -m 'f2'
+
+
+
+
+q
+:wq
